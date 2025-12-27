@@ -1,10 +1,11 @@
 # poe_turbo
 
 A little Service to enable Turboclicking on the mouse back button and pressing "1" on the mouse forward button, when a PoE Windows is active.
+Tested on CachyOS.
 
 ## Can be done with a small services
 
-This file 
+This file should be in `~/.config/systemd/user/poe_macro.service
 ```
 [Unit]  
 Description=PoE Mouse Macro  
