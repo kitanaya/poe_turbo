@@ -5,7 +5,7 @@ Tested on CachyOS.
 
 ## Can be done with a small services
 
-This file should be in `~/.config/systemd/user/poe_macro.service
+This file should be in `~/.config/systemd/user/poe_macro.service`
 ```
 [Unit]  
 Description=PoE Mouse Macro  
