@@ -1,6 +1,9 @@
 # poe_turbo
 
 A little Service to enable Turboclicking on the mouse back button and pressing "1" on the mouse forward button, when a PoE Windows is active.
+Adjust Mouse as needed.
+Buttons and Speed can be adjusted within the script.
+Can add any "active Window"
 Tested on CachyOS.
 
 ## Can be done with a small services
